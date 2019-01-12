@@ -1,0 +1,35 @@
+﻿<Grid x:Class="Reporter.Pages.Page"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             DataContext="{Binding RelativeSource={RelativeSource Self}}"
+             Name="page">
+    
+    <Grid.Resources>
+        <BooleanToVisibilityConverter x:Key="BooleanToVisibilityConverter"/>
+    </Grid.Resources>
+
+    <Grid.RowDefinitions>
+        <RowDefinition Height="Auto"/>
+        <RowDefinition Height="Auto"/>
+        <RowDefinition Height="Auto"/>
+        <RowDefinition Height="*"/>
+        <RowDefinition Height="Auto"/>
+        <RowDefinition Height="Auto"/>
+        <RowDefinition Height="Auto"/>
+    </Grid.RowDefinitions>
+    
+    <Grid.ColumnDefinitions>
+        <ColumnDefinition/>
+        <ColumnDefinition/>
+        <ColumnDefinition/>
+    </Grid.ColumnDefinitions>
+
+    <ContentControl Content="{Binding Watermark}" Visibility="{Binding HasWatermark, Converter={StaticResource BooleanToVisibilityConverter}}" Grid.RowSpan="7" Grid.ColumnSpan="3" 
+                    VerticalAlignment="Center" HorizontalAlignment="Center" Opacity="{Binding ReportWatermarkOpacity}"/>    
+    <ContentControl Content="{Binding Header}" Visibility="{Binding HasHeader, Converter={StaticResource BooleanToVisibilityConverter}}" Grid.Row="1" Grid.ColumnSpan="3"/>
+    <ContentControl Content="{Binding Footer}" Visibility="{Binding HasFooter, Converter={StaticResource BooleanToVisibilityConverter}}" Grid.Row="5" Grid.ColumnSpan="3"/>    
+    <ContentControl Content="{Binding PageContent}" Grid.Row="3" Grid.ColumnSpan="3"/>    
+    
+    
+</Grid>

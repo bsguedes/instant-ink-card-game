@@ -1,0 +1,26 @@
+﻿<rep:LayoutBase x:Class="Reporter.Layouts.LayoutV1Vfnc2"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:rep="clr-namespace:Reporter.Layouts"
+             mc:Ignorable="d" Margin="0,5"
+             DataContext="{Binding RelativeSource={RelativeSource Self}}"
+             d:DesignHeight="300" d:DesignWidth="300">
+    <rep:LayoutBase.Resources>
+        <rep:ChildrenElementConverter x:Key="ChildrenElementConverter"/>
+    </rep:LayoutBase.Resources>
+    <Grid HorizontalAlignment="Stretch" VerticalAlignment="Stretch">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="*"/>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+        </Grid.RowDefinitions>
+        <ContentControl Name="topElement" Grid.Row="0" Grid.Column="0" Grid.ColumnSpan="2"/>
+        <StackPanel Name="leftColumn" Grid.Row="1" Grid.Column="0" Grid.ColumnSpan="1" Margin="5,0" VerticalAlignment="Top" />
+        <StackPanel Name="rightColumn" Grid.Row="1" Grid.Column="1" Grid.ColumnSpan="1" Margin="5,0" VerticalAlignment="Top"/>
+    </Grid>
+</rep:LayoutBase>

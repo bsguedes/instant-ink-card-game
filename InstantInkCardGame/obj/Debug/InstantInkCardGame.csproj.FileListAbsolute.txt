@@ -1,0 +1,136 @@
+C:\Users\bruno\Dropbox\git\Reporter\InstantInkCardGame\obj\Debug\InstantInkCardGame.csprojResolveAssemblyReference.cache
+C:\Users\bruno\Dropbox\git\Reporter\InstantInkCardGame\obj\Debug\MainWindow.g.cs
+C:\Users\bruno\Dropbox\git\Reporter\InstantInkCardGame\obj\Debug\App.g.cs
+C:\Users\bruno\Dropbox\git\Reporter\InstantInkCardGame\obj\Debug\InstantInkCardGame_MarkupCompile.cache
+C:\Users\bruno\Dropbox\git\Reporter\InstantInkCardGame\obj\Debug\InstantInkCardGame_MarkupCompile.lref
+C:\Users\bruno\Dropbox\git\Reporter\InstantInkCardGame\bin\Debug\InstantInkCardGame.exe.config
+C:\Users\bruno\Dropbox\git\Reporter\InstantInkCardGame\bin\Debug\InstantInkCardGame.exe
+C:\Users\bruno\Dropbox\git\Reporter\InstantInkCardGame\bin\Debug\InstantInkCardGame.pdb
+C:\Users\bruno\Dropbox\git\Reporter\InstantInkCardGame\bin\Debug\Reporter.dll
+C:\Users\bruno\Dropbox\git\Reporter\InstantInkCardGame\bin\Debug\Reporter.pdb
+C:\Users\bruno\Dropbox\git\Reporter\InstantInkCardGame\obj\Debug\MainWindow.baml
+C:\Users\bruno\Dropbox\git\Reporter\InstantInkCardGame\obj\Debug\InstantInkCardGame.g.resources
+C:\Users\bruno\Dropbox\git\Reporter\InstantInkCardGame\obj\Debug\InstantInkCardGame.Properties.Resources.resources
+C:\Users\bruno\Dropbox\git\Reporter\InstantInkCardGame\obj\Debug\InstantInkCardGame.csproj.GenerateResource.Cache
+C:\Users\bruno\Dropbox\git\Reporter\InstantInkCardGame\obj\Debug\InstantInkCardGame.csproj.CoreCompileInputs.cache
+C:\Users\bruno\Dropbox\git\Reporter\InstantInkCardGame\obj\Debug\InstantInkCardGame.exe
+C:\Users\bruno\Dropbox\git\Reporter\InstantInkCardGame\obj\Debug\InstantInkCardGame.pdb
+C:\Users\bruno\Dropbox\git\Reporter\InstantInkCardGame\obj\Debug\Cards\CardBase.g.cs
+C:\Users\bruno\Dropbox\git\Reporter\InstantInkCardGame\obj\Debug\Cards\CardBase.baml
+C:\Users\bruno\Dropbox\git\Reporter\InstantInkCardGame\bin\Debug\InstantInkCardGame.exe.manifest
+C:\Users\bruno\Dropbox\git\Reporter\InstantInkCardGame\bin\Debug\InstantInkCardGame.application
+C:\Users\bruno\Dropbox\git\Reporter\InstantInkCardGame\obj\Debug\InstantInkCardGame.TrustInfo.xml
+C:\Users\bruno\Dropbox\git\Reporter\InstantInkCardGame\obj\Debug\InstantInkCardGame.exe.manifest
+C:\Users\bruno\Dropbox\git\Reporter\InstantInkCardGame\obj\Debug\InstantInkCardGame.application
+C:\Users\bruno\Dropbox\git\Reporter\InstantInkCardGame\bin\Debug\Icons\printingjob.png
+C:\Users\bruno\Dropbox\git\Reporter\InstantInkCardGame\obj\Debug\InstantInkCardGame_Content.g.cs
+C:\Users\bruno\Dropbox\git\Reporter\InstantInkCardGame\bin\Debug\Icons\enrollment.png
+C:\Users\bruno\Dropbox\git\Reporter\InstantInkCardGame\bin\Debug\Icons\event.png
+C:\Users\bruno\Dropbox\git\Reporter\InstantInkCardGame\bin\Debug\Icons\goal.png
+C:\Users\bruno\Dropbox\git\Reporter\InstantInkCardGame\bin\Debug\Icons\plan.png
+C:\Users\bruno\Dropbox\git\Reporter\InstantInkCardGame\bin\Debug\Icons\player.png
+C:\Users\bruno\Dropbox\git\Reporter\InstantInkCardGame\bin\Debug\Icons\printer.png
+C:\Users\bruno\Dropbox\git\Reporter\InstantInkCardGame\bin\Debug\Icons\replacecartridge.png
+C:\Users\bruno\Dropbox\git\Reporter\InstantInkCardGame\bin\Debug\CardIcons\extra.png
+C:\Users\bruno\Dropbox\git\Reporter\InstantInkCardGame\bin\Debug\CardIcons\ink.png
+C:\Users\bruno\Dropbox\git\Reporter\InstantInkCardGame\bin\Debug\CardIcons\money.png
+C:\Users\bruno\Dropbox\git\Reporter\InstantInkCardGame\bin\Debug\CardIcons\pages.png
+C:\Users\bruno\Dropbox\git\Reporter\InstantInkCardGame\bin\Debug\CardIcons\vp.png
+C:\Users\bruno\Dropbox\git\Reporter\InstantInkCardGame\bin\Debug\Images\BASE SET\flight.png
+C:\Users\bruno\Dropbox\git\Reporter\InstantInkCardGame\bin\Debug\Images\BASE SET\accountant.png
+C:\Users\bruno\Dropbox\git\Reporter\InstantInkCardGame\bin\Debug\Images\BASE SET\art.png
+C:\Users\bruno\Dropbox\git\Reporter\InstantInkCardGame\bin\Debug\Images\BASE SET\artist.png
+C:\Users\bruno\Dropbox\git\Reporter\InstantInkCardGame\bin\Debug\Images\BASE SET\blueprint.png
+C:\Users\bruno\Dropbox\git\Reporter\InstantInkCardGame\bin\Debug\Images\BASE SET\card.png
+C:\Users\bruno\Dropbox\git\Reporter\InstantInkCardGame\bin\Debug\Images\BASE SET\childhood.png
+C:\Users\bruno\Dropbox\git\Reporter\InstantInkCardGame\bin\Debug\Images\BASE SET\college.png
+C:\Users\bruno\Dropbox\git\Reporter\InstantInkCardGame\bin\Debug\Images\BASE SET\concert.png
+C:\Users\bruno\Dropbox\git\Reporter\InstantInkCardGame\bin\Debug\Images\BASE SET\contracts.png
+C:\Users\bruno\Dropbox\git\Reporter\InstantInkCardGame\bin\Debug\Images\BASE SET\cooking.png
+C:\Users\bruno\Dropbox\git\Reporter\InstantInkCardGame\bin\Debug\Images\BASE SET\dungeonmaster.png
+C:\Users\bruno\Dropbox\git\Reporter\InstantInkCardGame\bin\Debug\Images\BASE SET\easier.png
+C:\Users\bruno\Dropbox\git\Reporter\InstantInkCardGame\bin\Debug\Images\BASE SET\enrollment.png
+C:\Users\bruno\Dropbox\git\Reporter\InstantInkCardGame\bin\Debug\Images\BASE SET\family.png
+C:\Users\bruno\Dropbox\git\Reporter\InstantInkCardGame\bin\Debug\Images\BASE SET\financial.png
+C:\Users\bruno\Dropbox\git\Reporter\InstantInkCardGame\bin\Debug\Images\BASE SET\framed.png
+C:\Users\bruno\Dropbox\git\Reporter\InstantInkCardGame\bin\Debug\Images\BASE SET\friends.png
+C:\Users\bruno\Dropbox\git\Reporter\InstantInkCardGame\bin\Debug\Images\BASE SET\green.png
+C:\Users\bruno\Dropbox\git\Reporter\InstantInkCardGame\bin\Debug\Images\BASE SET\highschool.png
+C:\Users\bruno\Dropbox\git\Reporter\InstantInkCardGame\bin\Debug\Images\BASE SET\holiday.png
+C:\Users\bruno\Dropbox\git\Reporter\InstantInkCardGame\bin\Debug\Images\BASE SET\homework.png
+C:\Users\bruno\Dropbox\git\Reporter\InstantInkCardGame\bin\Debug\Images\BASE SET\inksavings.png
+C:\Users\bruno\Dropbox\git\Reporter\InstantInkCardGame\bin\Debug\Images\BASE SET\interview.png
+C:\Users\bruno\Dropbox\git\Reporter\InstantInkCardGame\bin\Debug\Images\BASE SET\invitations.png
+C:\Users\bruno\Dropbox\git\Reporter\InstantInkCardGame\bin\Debug\Images\BASE SET\message.png
+C:\Users\bruno\Dropbox\git\Reporter\InstantInkCardGame\bin\Debug\Images\BASE SET\news.png
+C:\Users\bruno\Dropbox\git\Reporter\InstantInkCardGame\bin\Debug\Images\BASE SET\odyssey.png
+C:\Users\bruno\Dropbox\git\Reporter\InstantInkCardGame\bin\Debug\Images\BASE SET\pnp.png
+C:\Users\bruno\Dropbox\git\Reporter\InstantInkCardGame\bin\Debug\Images\BASE SET\productivity.png
+C:\Users\bruno\Dropbox\git\Reporter\InstantInkCardGame\bin\Debug\Images\BASE SET\promo.png
+C:\Users\bruno\Dropbox\git\Reporter\InstantInkCardGame\bin\Debug\Images\BASE SET\refer.png
+C:\Users\bruno\Dropbox\git\Reporter\InstantInkCardGame\bin\Debug\Images\BASE SET\replace.png
+C:\Users\bruno\Dropbox\git\Reporter\InstantInkCardGame\bin\Debug\Images\BASE SET\stock.png
+C:\Users\bruno\Dropbox\git\Reporter\InstantInkCardGame\bin\Debug\Images\BASE SET\tourist.png
+C:\Users\bruno\Dropbox\git\Reporter\InstantInkCardGame\bin\Debug\Images\BASE SET\welcome.png
+C:\Users\bruno\Dropbox\git\Reporter\InstantInkCardGame\bin\Debug\Images\BASE SET.png
+C:\Users\bruno\Dropbox\git\Reporter\InstantInkCardGame\bin\Debug\Images\BASE SET\blank.png
+C:\Users\bruno\Dropbox\git\Reporter\InstantInkCardGame\bin\Debug\Images\DUELIST SET.png
+C:\Users\bruno\Dropbox\git\Reporter\InstantInkCardGame\bin\Debug\Images\DUELIST SET\blank.png
+C:\Users\bruno\Dropbox\git\Reporter\InstantInkCardGame\bin\Debug\Images\DUELIST SET\enrollment.png
+C:\Users\bruno\Dropbox\git\Reporter\InstantInkCardGame\bin\Debug\Images\BASE SET\frequent.png
+C:\Users\bruno\Dropbox\git\Reporter\InstantInkCardGame\bin\Debug\Images\BASE SET\lups.png
+C:\Users\bruno\Dropbox\git\Reporter\InstantInkCardGame\bin\Debug\Images\BASE SET\meme.png
+C:\Users\bruno\Dropbox\git\Reporter\InstantInkCardGame\bin\Debug\Images\BASE SET\moderate.png
+C:\Users\bruno\Dropbox\git\Reporter\InstantInkCardGame\bin\Debug\Images\BASE SET\occasional.png
+C:\Users\bruno\Dropbox\git\Reporter\InstantInkCardGame\bin\Debug\Images\BASE SET\printer.png
+C:\Users\bruno\Dropbox\git\Reporter\InstantInkCardGame\bin\Debug\Images\BASE SET\recycle.png
+C:\Users\bruno\Dropbox\git\Reporter\InstantInkCardGame\bin\Debug\Images\BASE SET\reports.png
+C:\Users\bruno\Dropbox\git\Reporter\InstantInkCardGame\bin\Debug\Images\BASE SET\weather.png
+C:\Users\bruno\Dropbox\git\Reporter\InstantInkCardGame\bin\Debug\Images\DUELIST SET\biology.png
+C:\Users\bruno\Dropbox\git\Reporter\InstantInkCardGame\bin\Debug\Images\DUELIST SET\board.png
+C:\Users\bruno\Dropbox\git\Reporter\InstantInkCardGame\bin\Debug\Images\DUELIST SET\book.png
+C:\Users\bruno\Dropbox\git\Reporter\InstantInkCardGame\bin\Debug\Images\DUELIST SET\character.png
+C:\Users\bruno\Dropbox\git\Reporter\InstantInkCardGame\bin\Debug\Images\DUELIST SET\chat.png
+C:\Users\bruno\Dropbox\git\Reporter\InstantInkCardGame\bin\Debug\Images\DUELIST SET\class.png
+C:\Users\bruno\Dropbox\git\Reporter\InstantInkCardGame\bin\Debug\Images\DUELIST SET\company.png
+C:\Users\bruno\Dropbox\git\Reporter\InstantInkCardGame\bin\Debug\Images\DUELIST SET\concert.png
+C:\Users\bruno\Dropbox\git\Reporter\InstantInkCardGame\bin\Debug\Images\DUELIST SET\coupons.png
+C:\Users\bruno\Dropbox\git\Reporter\InstantInkCardGame\bin\Debug\Images\DUELIST SET\diagnostic.png
+C:\Users\bruno\Dropbox\git\Reporter\InstantInkCardGame\bin\Debug\Images\DUELIST SET\balance.png
+C:\Users\bruno\Dropbox\git\Reporter\InstantInkCardGame\bin\Debug\Images\DUELIST SET\black.png
+C:\Users\bruno\Dropbox\git\Reporter\InstantInkCardGame\bin\Debug\Images\DUELIST SET\calendar.png
+C:\Users\bruno\Dropbox\git\Reporter\InstantInkCardGame\bin\Debug\Images\DUELIST SET\driving.png
+C:\Users\bruno\Dropbox\git\Reporter\InstantInkCardGame\bin\Debug\Images\DUELIST SET\environmental.png
+C:\Users\bruno\Dropbox\git\Reporter\InstantInkCardGame\bin\Debug\Images\DUELIST SET\fashion.png
+C:\Users\bruno\Dropbox\git\Reporter\InstantInkCardGame\bin\Debug\Images\DUELIST SET\first.png
+C:\Users\bruno\Dropbox\git\Reporter\InstantInkCardGame\bin\Debug\Images\DUELIST SET\golf.png
+C:\Users\bruno\Dropbox\git\Reporter\InstantInkCardGame\bin\Debug\Images\DUELIST SET\home.png
+C:\Users\bruno\Dropbox\git\Reporter\InstantInkCardGame\bin\Debug\Images\DUELIST SET\invoice.png
+C:\Users\bruno\Dropbox\git\Reporter\InstantInkCardGame\bin\Debug\Images\DUELIST SET\maintenance.png
+C:\Users\bruno\Dropbox\git\Reporter\InstantInkCardGame\bin\Debug\Images\DUELIST SET\massive.png
+C:\Users\bruno\Dropbox\git\Reporter\InstantInkCardGame\bin\Debug\Images\DUELIST SET\master.png
+C:\Users\bruno\Dropbox\git\Reporter\InstantInkCardGame\bin\Debug\Images\DUELIST SET\meme.png
+C:\Users\bruno\Dropbox\git\Reporter\InstantInkCardGame\bin\Debug\Images\DUELIST SET\nature.png
+C:\Users\bruno\Dropbox\git\Reporter\InstantInkCardGame\bin\Debug\Images\DUELIST SET\office.png
+C:\Users\bruno\Dropbox\git\Reporter\InstantInkCardGame\bin\Debug\Images\DUELIST SET\paris.png
+C:\Users\bruno\Dropbox\git\Reporter\InstantInkCardGame\bin\Debug\Images\DUELIST SET\patch.png
+C:\Users\bruno\Dropbox\git\Reporter\InstantInkCardGame\bin\Debug\Images\DUELIST SET\pet.png
+C:\Users\bruno\Dropbox\git\Reporter\InstantInkCardGame\bin\Debug\Images\DUELIST SET\planned.png
+C:\Users\bruno\Dropbox\git\Reporter\InstantInkCardGame\bin\Debug\Images\DUELIST SET\politician.png
+C:\Users\bruno\Dropbox\git\Reporter\InstantInkCardGame\bin\Debug\Images\DUELIST SET\programming.png
+C:\Users\bruno\Dropbox\git\Reporter\InstantInkCardGame\bin\Debug\Images\DUELIST SET\recycle.png
+C:\Users\bruno\Dropbox\git\Reporter\InstantInkCardGame\bin\Debug\Images\DUELIST SET\refreshing.png
+C:\Users\bruno\Dropbox\git\Reporter\InstantInkCardGame\bin\Debug\Images\DUELIST SET\resume.png
+C:\Users\bruno\Dropbox\git\Reporter\InstantInkCardGame\bin\Debug\Images\DUELIST SET\rio.png
+C:\Users\bruno\Dropbox\git\Reporter\InstantInkCardGame\bin\Debug\Images\DUELIST SET\sharing.png
+C:\Users\bruno\Dropbox\git\Reporter\InstantInkCardGame\bin\Debug\Images\DUELIST SET\sheet.png
+C:\Users\bruno\Dropbox\git\Reporter\InstantInkCardGame\bin\Debug\Images\DUELIST SET\shopping.png
+C:\Users\bruno\Dropbox\git\Reporter\InstantInkCardGame\bin\Debug\Images\DUELIST SET\sports.png
+C:\Users\bruno\Dropbox\git\Reporter\InstantInkCardGame\bin\Debug\Images\DUELIST SET\teacher.png
+C:\Users\bruno\Dropbox\git\Reporter\InstantInkCardGame\bin\Debug\Images\DUELIST SET\tech.png
+C:\Users\bruno\Dropbox\git\Reporter\InstantInkCardGame\bin\Debug\Images\DUELIST SET\wedding.png
+C:\Users\bruno\Dropbox\git\Reporter\InstantInkCardGame\bin\Debug\Images\DUELIST SET\frequent.png
+C:\Users\bruno\Dropbox\git\Reporter\InstantInkCardGame\bin\Debug\Images\DUELIST SET\lups.png
+C:\Users\bruno\Dropbox\git\Reporter\InstantInkCardGame\bin\Debug\Images\DUELIST SET\moderate.png
+C:\Users\bruno\Dropbox\git\Reporter\InstantInkCardGame\bin\Debug\Images\DUELIST SET\occasional.png
+C:\Users\bruno\Dropbox\git\Reporter\InstantInkCardGame\bin\Debug\Images\DUELIST SET\replace.png

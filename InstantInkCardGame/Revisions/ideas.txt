@@ -1,0 +1,5 @@
+- Sets temáticos (holiday)
+- Evento: colocar 2 shared resources no topo do deck
+- Enrollment card: colocar carta do Descarte no topo do deck
+- Printers com abilities
+- Cartas que podem ser adicionadas ao jogo solo (com um label SOLO embaixo)

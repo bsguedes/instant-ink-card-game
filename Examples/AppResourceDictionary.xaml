@@ -1,0 +1,12 @@
+﻿<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+    
+    <DataTemplate x:Key="ItemsControlElementTestTemplate">
+        <Border BorderBrush="Black" Margin="1" BorderThickness="1">            
+            <Grid Width="50" Height="50">
+                <Label Content="{Binding Value}"/>
+            </Grid>
+        </Border>
+    </DataTemplate>
+    
+</ResourceDictionary>
